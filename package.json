@@ -1,0 +1,27 @@
+{
+  "name": "crud-rest-api-using-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafiztushar/CRUD-REST-API-using-Node-Express-MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafiztushar/CRUD-REST-API-using-Node-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/hafiztushar/CRUD-REST-API-using-Node-Express-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
